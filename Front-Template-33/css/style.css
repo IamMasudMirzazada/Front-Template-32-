@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+header{
+    background-color: rgb(241, 240, 240);
+   padding: 0.2rem 0;
+    }
+header .lasta1{
+    background-color: transparent;
+    padding: 0px 10px;
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 15px 30px;
+}
+ header .right a{
+     text-decoration: none;
+    
+     color: rgb(34, 33, 33);
+ font-size: 18px;
+     margin-left: 15px;
+ }
+header .right{
+    float: right;
+    width: 60%;
+    overflow: auto;
+    padding: 3rem;
+}
+header .left{
+    width: 40%;
+    display: inline-block;
+}
+ .creative
+ {
+     text-align: center;
+ }
+ .creative h1{
+     background-image: linear-gradient(120deg,#1C99FE,#7644FF,#FD4766); 
+    -webkit-background-clip: text; 
+    font-size: 100px;
+    color: #A545C9;
+    line-height: 40px;
+    margin-bottom: 50px;
+ }
+ .creative p{
+     font-size: 24px;
+     color:rgba(255, 255, 255, 0.8);
+     margin-bottom: 70px;
+
+ }
+ .section1{
+     background-size: cover;
+     background-position:center;
+     padding: 18rem;
+     background-image: url(http://rainbowit.net/themes/imroz/wp-content/uploads/2021/10/bg-image-26.jpg);
+ }
+ .creative a{
+     background-color: #fd4766;
+     border: none;
+     padding: 26px 60px;
+     text-decoration: none;
+     color: white;
+    border-radius: 45px;
+    padding: 1.5rem 5rem;
+    font-size: 20px;
+ }
+ .section2{
+     padding: 5rem;
+     overflow: auto;
+     
+ }
+ .section2 .box{
+     background-color: #F6F6F6;
+      width: 31%;
+      float: left;
+      padding: 80px 50px;
+      margin-left: 25px;
+      margin-top: 15px;
+      border-radius: 20px;
+ }
+ .slider{
+     text-align: center;
+ }
+ .slider h3{
+     font-size: 25px;
+     margin-bottom: 20px;
+     text-align: left;
+ }
+ .slider p{
+     font-size: 20px;
+    color: rgb(95 95 98);
+    text-align: left;
+ }
+ .clear{
+     clear: both;
+ }
